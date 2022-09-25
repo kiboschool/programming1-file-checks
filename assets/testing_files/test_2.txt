@@ -1,0 +1,3 @@
+README.md
+/
+wrong_file.txt
